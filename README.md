@@ -1,5 +1,35 @@
 # React + Vite
 
+installation
+
+npm i
+
+#All the neccesary dependices will be install 
+
+files for group 1 and group 2 are in components folder named as Example.jsx and Group2.jsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
