@@ -1,6 +1,12 @@
+if there any problem contact me anytime 
+
+
 videos are uploaded name as
 
 aadarshgupta.mp4 and aadarsh.mp4  these two files contains the project video
+
+installation
+
 # React + Vite
 
 npm create vite@latest
