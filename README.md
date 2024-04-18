@@ -1,5 +1,18 @@
 # React + Vite
 
+npm create vite@latest
+
+#Tailwind
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+#Chakra ui insatllation
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+npm run dev
+
+
 installation
 
 npm i
